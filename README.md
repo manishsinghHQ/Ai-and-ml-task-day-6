@@ -1,1 +1,1 @@
-# Ai-and-ml-task-day-6
+choosed a classification dataset <br> Use KNeignborsClassifiers <br>Experimented with different k values and for 2 i saw best accuracy <br>evaluated using score and confusion matrix <br>visualized the decision boundaries
